@@ -18,7 +18,7 @@
 
 ## 🛠 사용 기술
 
-- Python 3.x
+- Python 3.9
 - PyTorch
 - KoNLPy (Okt 형태소 분석)
 - Numpy, Scikit-learn
